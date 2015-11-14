@@ -1,0 +1,2 @@
+# qgm
+Quantum Graphical Models
