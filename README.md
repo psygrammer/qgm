@@ -25,6 +25,6 @@ Quantum Graphical Models
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
 | 1 |11/18|(통계기초) 탐색적 자료 분석 & 분포   |이광춘| |
-|   | |(머피ML) 1. Introduction  |김무성| [발표자료]|
-|   | |(PGMPy) 1. Bayesian Network Fundamentals (1) |김무성|[발표자료] |
+|   | |(머피ML) 1. Introduction  |김무성| [발표자료](https://github.com/psygrammer/qgm/blob/master/part1/murphy/ch01/01_Introduction.ipynb)|
+|   | |(PGMPy) 1. Bayesian Network Fundamentals (1) |김무성|[발표자료](https://github.com/psygrammer/qgm/blob/master/part1/pgmpy/ch01/1_Bayesian_Network_Fundamentals.ipynb) |
 |   | |(양자정보) Chap.1 ~ 1.2 Quantum bit + Overview of the concept of de Brogile wave and Stern-Gerlarch experiment (1)  |고희연|[발표자료](https://drive.google.com/file/d/0B438jfLalIajNkpYT0UtSFRnNzA/view) |
