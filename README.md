@@ -27,4 +27,4 @@ Quantum Graphical Models
 | 1 |11/18|(통계기초) 탐색적 자료 분석 & 분포   |이광춘| |
 |   | |(머피ML) 1. Introduction  |김무성| [발표자료]|
 |   | |(PGMPy) 1. Bayesian Network Fundamentals (1) |김무성|[발표자료] |
-|   | |(양자정보) Chap.1 ~ 1.2 Quantum bit + Overview of the concept of de Brogile wave and Stern-Gerlarch experiment (1)  |고희연|[발표자료] |
+|   | |(양자정보) Chap.1 ~ 1.2 Quantum bit + Overview of the concept of de Brogile wave and Stern-Gerlarch experiment (1)  |고희연|[발표자료](https://drive.google.com/file/d/0B438jfLalIajNkpYT0UtSFRnNzA/view) |
